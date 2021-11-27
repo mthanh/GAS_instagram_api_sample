@@ -6,7 +6,7 @@ var media_limit_get = 10
 
 
 //sheet infor
-var sheet_SSId = '1l9rzGRiTja5lnzLGnFxUYX2K2N0jqwAm04vL4nWcC9c';
+var sheet_SSId = "input here"
 var mySS = SpreadsheetApp.openById(sheet_SSId); 
 
 // var sheet_user_name = "user_sheet"; 

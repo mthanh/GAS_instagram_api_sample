@@ -1,12 +1,12 @@
 //instagram Graph API 
-var instragramID = 'input here';
+var instragramID = 'input here'; 
 var ACCESS_TOKEN = "input here";
 
 var media_limit_get = 10
 
 
 //sheet infor
-var sheet_SSId = '1sU917U1ByBTuT1IQ-UPZiel9AdJBYKTEesF8B7gsYb4';
+var sheet_SSId = "input here"
 var mySS = SpreadsheetApp.openById(sheet_SSId); 
 
 var sheet_data_name = "media_data"; 
